@@ -2,7 +2,7 @@
 //  seriestrackerTests.swift
 //  seriestrackerTests
 //
-//  Created by Mathias Ober on 20.10.14.
+//  Created by Mathias Ober on 21.10.14.
 //  Copyright (c) 2014 Scriptheroes. All rights reserved.
 //
 

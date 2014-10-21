@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>549A96C0-E168-4E69-BB96-558A916ACBD8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>seriestracker</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>26F248EB355673961B552E428B3DC5EE72C93ADE</key>
+		<string>github.com:scriptheroes/series-tracker.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>seriestracker/seriestracker.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>26F248EB355673961B552E428B3DC5EE72C93ADE</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:scriptheroes/series-tracker.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>26F248EB355673961B552E428B3DC5EE72C93ADE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>26F248EB355673961B552E428B3DC5EE72C93ADE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>seriestracker</string>
+		</dict>
+	</array>
+</dict>
+</plist>

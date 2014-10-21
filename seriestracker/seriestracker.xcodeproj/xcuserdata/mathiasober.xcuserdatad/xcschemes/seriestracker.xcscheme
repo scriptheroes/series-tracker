@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0600"
+   LastUpgradeVersion = "0610"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "720D492319F595690037E895"
+               BlueprintIdentifier = "720A014519F6F0E100F87BE3"
                BuildableName = "seriestracker.app"
                BlueprintName = "seriestracker"
                ReferencedContainer = "container:seriestracker.xcodeproj">
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "720D493A19F595690037E895"
+               BlueprintIdentifier = "720A015A19F6F0E100F87BE3"
                BuildableName = "seriestrackerTests.xctest"
                BlueprintName = "seriestrackerTests"
                ReferencedContainer = "container:seriestracker.xcodeproj">
@@ -46,7 +46,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "720D493A19F595690037E895"
+               BlueprintIdentifier = "720A015A19F6F0E100F87BE3"
                BuildableName = "seriestrackerTests.xctest"
                BlueprintName = "seriestrackerTests"
                ReferencedContainer = "container:seriestracker.xcodeproj">
@@ -56,7 +56,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "720D492319F595690037E895"
+            BlueprintIdentifier = "720A014519F6F0E100F87BE3"
             BuildableName = "seriestracker.app"
             BlueprintName = "seriestracker"
             ReferencedContainer = "container:seriestracker.xcodeproj">
@@ -75,7 +75,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "720D492319F595690037E895"
+            BlueprintIdentifier = "720A014519F6F0E100F87BE3"
             BuildableName = "seriestracker.app"
             BlueprintName = "seriestracker"
             ReferencedContainer = "container:seriestracker.xcodeproj">
@@ -93,7 +93,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "720D492319F595690037E895"
+            BlueprintIdentifier = "720A014519F6F0E100F87BE3"
             BuildableName = "seriestracker.app"
             BlueprintName = "seriestracker"
             ReferencedContainer = "container:seriestracker.xcodeproj">
